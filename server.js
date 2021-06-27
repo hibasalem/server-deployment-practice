@@ -18,8 +18,8 @@ function badHandler(req, res) {
 app.use('*', notfoundHandler);
 app.use(errorHandler);
 
-function start(PORT) {
-  app.listen(PORT, () => console.log(`listening on port ${PORT}`));
+function start(port) {
+  app.listen(port, () => console.log(`listening on port ${port}`));
 }
 
 module.exports = {
