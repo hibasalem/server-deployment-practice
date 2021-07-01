@@ -8,14 +8,15 @@ Author: hiba salem
 
 a web server to practice using CI and CD and get used to the general process of building and deploying servers
 
+![uml](lab01.jpg)
+
 ### [PR](https://github.com/hibasalem/server-deployment-practice/pull/1)
+
 ### deploy links
 
 [dev branch deployment](https://server-deployment-practicehiba.herokuapp.com)
 
 [main deployment](https://server-deployment.herokuapp.com)
-
-
 
 ### getting this app
 
